@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad/static/css/main.1ddaeb6a.chunk.css",
+    "main.js": "/Breaking-Bad/static/js/main.2c6a161b.chunk.js",
+    "main.js.map": "/Breaking-Bad/static/js/main.2c6a161b.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad/static/js/runtime-main.fcc39abe.js",
+    "runtime-main.js.map": "/Breaking-Bad/static/js/runtime-main.fcc39abe.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Breaking-Bad/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7f5f2880.chunk.js": "/Breaking-Bad/static/js/2.7f5f2880.chunk.js",
+    "static/js/2.7f5f2880.chunk.js.map": "/Breaking-Bad/static/js/2.7f5f2880.chunk.js.map",
+    "index.html": "/Breaking-Bad/index.html",
+    "precache-manifest.01ef62f415a05eea10aca710d1d8f3d6.js": "/Breaking-Bad/precache-manifest.01ef62f415a05eea10aca710d1d8f3d6.js",
+    "service-worker.js": "/Breaking-Bad/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Breaking-Bad/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1ddaeb6a.chunk.css.map": "/Breaking-Bad/static/css/main.1ddaeb6a.chunk.css.map",
+    "static/js/2.7f5f2880.chunk.js.LICENSE.txt": "/Breaking-Bad/static/js/2.7f5f2880.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Breaking-Bad/static/media/bg.1be2d3a0.jpg",
+    "static/media/spinner.gif": "/Breaking-Bad/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc39abe.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7f5f2880.chunk.js",
+    "static/css/main.1ddaeb6a.chunk.css",
+    "static/js/main.2c6a161b.chunk.js"
+  ]
+}
